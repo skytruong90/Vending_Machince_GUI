@@ -25,6 +25,9 @@ https://youtu.be/1VUPADGI0zQ
 <img src="pic1.jpg" width="600">
 <img src="pic2.jpg" width="600">
 
+## This is the front screen of the GUI:
+<img src="Front_Screen.png" width="500">
+
 ## This is the main interface of the GUI, where you can: add money, add location, add building, add products, etc:
 <img src="main1.png" width="500">
 
