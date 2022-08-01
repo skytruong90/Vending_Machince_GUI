@@ -1,0 +1,17 @@
+.root{
+	-fx-background-color: transparent;
+	-fx-background-image: url("background.jpg");
+}
+
+.button{
+	-fx-text-fill: #006464;
+	-fx-background-color: #a9e4eb;
+	-fx-border-radius: 20;
+	-fx-background-radius: 20;
+	-fx-padding: 10;
+}
+
+.h_or_v_box{
+	-fx-padding: 5;
+	-fx-spacing: 5;
+}
