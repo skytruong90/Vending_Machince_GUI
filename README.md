@@ -27,7 +27,9 @@ https://youtu.be/1VUPADGI0zQ
 <img src="" width="320">
 
 ## This is the class diagram that explain the layout of the project:
-<img src="" width="400">
+<img src="pic1.jpg" width="400">
+<img src="pic2.jpg" width="400">
+
 
 ## This is the main interface of the GUI, where you can add buiding, room, suite and employees:
 <img src="" width="700">
